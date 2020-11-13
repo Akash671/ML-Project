@@ -10,7 +10,7 @@ Created date:-
 Developed by:- 
 
 Student of Moradabad Institute Of Technology Moradabad
-(WITH)
+(MIT)
 
 Team members:-
 
