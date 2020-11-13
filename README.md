@@ -7,6 +7,6 @@ Developed by:-
 Student of Moradabad Institute Of Technology Moradabad
 (MIT)
 Team members:-
-Akash Kumar 
-Abhay Pratap Singh
-Abhishek Kumar 
+1). Akash Kumar 
+2). Abhay Pratap Singh
+3). Abhishek Kumar 
