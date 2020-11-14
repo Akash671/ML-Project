@@ -1,0 +1,10 @@
+Recurement : -
+
+Python library :-
+
+pip install pandas
+pip install numpy
+pip install sklearn
+pip install tkinter
+pip install mysql.connector
+pip install win32com.client
