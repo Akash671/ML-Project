@@ -1,11 +1,12 @@
 # -*- coding: utf-8 -*-
+""" project name : covid-19 test application """
 """
-Created on Fri Nov  6 16:29:47 2020
+Created on Fri Jun 6 16:29:47 2020
 
-@author : AKASH KUMAR
-@college: MIT Institute Moradabad
-Computer Science & Information Technology
-@work   : Software Devlope & Machine Learning
+@author.    : AKASH KUMAR
+@institute. : MIT Institute Moradabad india
+@branch.    : Computer Science & Information Technology
+@work as.   : Software Devlope & Machine Learning
 """
 
 
@@ -362,4 +363,4 @@ root.resizable(0,0)
 root.mainloop()
 
 
-'''     ------------- Thanks For Using It -------------        '''
+'''     ------------- Thanks For It -------------        '''
