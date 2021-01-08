@@ -16,6 +16,8 @@ Team members:-
 
 1). Akash Kumar 
 
-2). Abhay Pratap Singh
+2). Akash Jauhari
 
-3). Abhishek Kumar 
+3). Abhay Pratap Singh
+
+4). Abhishek Kumar 
