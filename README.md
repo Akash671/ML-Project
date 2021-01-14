@@ -9,15 +9,18 @@ Created date:-
 
 Developed by:- 
 
-Student of Moradabad Institute Of Technology Moradabad
+Students of Moradabad Institute Of Technology Moradabad
 (MIT)
 
 Team members:-
 
-1). Akash Kumar 
+1). Akash Kumar
 
 2). Akash Jauhari
 
 3). Abhay Pratap Singh
 
-4). Abhishek Kumar 
+4). Abhishek Kumar
+
+
+******     Thanks for it.  ******
