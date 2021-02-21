@@ -6,7 +6,7 @@ Created on Fri Jun 6 16:29:47 2020
 @author.    : AKASH KUMAR
 @institute. : MIT Institute Moradabad india
 @branch.    : Computer Science & Information Technology
-@work as.   : Software Devlope & Machine Learning Engineer
+@work as.   : Software Devloper & Machine Learning Engineer
 @website.   : https://medium.com/@akashsaininasa
 @github.    : https://github.com/Akash671
 
