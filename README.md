@@ -18,12 +18,12 @@ Created date:-
 
 Developed by:- 
 
-Students of Moradabad Institute Of Technology Moradabad
-(MIT)
+<a href="https://www.mitmoradabad.edu.in">Students of Moradabad Institute Of Technology Moradabad
+(MIT)</a>
 
 Team members:-
 
-1). Akash Kumar
+<a href="https://github.com/Akash671">1). Akash Kumar</a>
 
 2). Akash Jauhari
 
