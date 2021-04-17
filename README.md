@@ -25,6 +25,10 @@ Team members:-
 
 <a href="https://github.com/Akash671">1). Akash Kumar</a>
 
+![Stats added](https://github-readme-stats.vercel.app/api?username=Akash671&&show_icons=true)
+<!--
+![Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash671)
+-->
 <a href="https://github.com/Akashjhr24">2). Akash Jauhari</a>
 
 <a href="https://github.com/thakur8630">3). Abhay Pratap Singh</a>
