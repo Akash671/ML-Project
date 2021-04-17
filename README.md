@@ -1,4 +1,4 @@
-# ML-Project
+# Covid-19 test application 
 https://github.com/Akash671/ML-Project/blob/master/app/appImage/img1.png
 ![image](https://github.com/Akash671/ML-Project/blob/master/app/appImage/img1.png)
 <br>
@@ -10,7 +10,7 @@ database image
 <br>
 ![image](https://github.com/Akash671/ML-Project/blob/master/app/appImage/img5.png)
 
-Machine Learning Model
+Machine Learning based application 
 
 Created date:-
 
