@@ -25,11 +25,11 @@ Team members:-
 
 <a href="https://github.com/Akash671">1). Akash Kumar</a>
 
-2). Akash Jauhari
+<a href="https://github.com/Akashjhr24">2). Akash Jauhari</a>
 
-3). Abhay Pratap Singh
+<a href="https://github.com/thakur8630">3). Abhay Pratap Singh</a>
 
-4). Abhishek Kumar
+<a href="https://github.com/abhishek4528">4). Abhishek Kumar</a>
 
 
 ****** Thanks you ******
