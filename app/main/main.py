@@ -4,7 +4,8 @@
 |     @author     :   AKASH KUMAR                                     |
 |     @college    :   MIT Institute Moradabad                         |
 |     @branch     :   Computer Science & Information Technology       |
-|     @work       :   Software Devlope & Machine Learning             |
+|     @work as    :   Software Development & Machine Learning.        |
+|     @website.   :   https://medium.com/@akashsaininasa.             |
 +---------------------------------------------------------------------+
 """
 
