@@ -1,12 +1,21 @@
 # Covid-19 test application
 1. app image
+
+
 ![image](https://github.com/Akash671/ML-Project/blob/master/app/appImage/img1.png)
 <br>
+
+
 2. app image
+
+
 <br>
 ![image](https://github.com/Akash671/ML-Project/blob/master/app/appImage/img3.png)
 <br>
+
 3. database image
+
+
 <br>
 ![image](https://github.com/Akash671/ML-Project/blob/master/app/appImage/img5.png)
 
